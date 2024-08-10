@@ -1,6 +1,6 @@
 # 프로젝트 결과
-![malloc-lab결과사진](https://github.com/user-attachments/assets/e4683019-82b5-4014-ad14-10f3d2e0dcda)
-## 성능테스트 83점
+<img width="321" alt="malloc-lab결과사진" src="https://github.com/user-attachments/assets/4bcbd13e-9dda-42c6-b917-d4656a4c9db4">
+
 #####################################################################
 # CS:APP Malloc Lab
 # Handout files for students
