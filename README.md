@@ -1,5 +1,5 @@
 # 프로젝트 결과
-<img width="321" alt="malloc-lab결과사진" src="https://github.com/user-attachments/assets/4bcbd13e-9dda-42c6-b917-d4656a4c9db4">
+![malloc-lab결과사진](https://github.com/user-attachments/assets/4bcbd13e-9dda-42c6-b917-d4656a4c9db4)
 
 #####################################################################
 # CS:APP Malloc Lab
